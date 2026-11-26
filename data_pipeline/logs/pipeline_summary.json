@@ -1,0 +1,25 @@
+{
+  "finished_at": "2026-11-25 21:05:10",
+  "target_gb": 10.5,
+  "files_processed_total": 252,
+  "files_this_run": 250,
+  "failed_files": [
+    "pubmed26n1148.xml.gz"
+  ],
+  "documents_total": 6455104,
+  "records_read_total": 7534988,
+  "text_bytes_total": 10811795709,
+  "jsonl_bytes_total": 14789125849,
+  "gz_bytes_total": 18724009086,
+  "wall_seconds_this_run": 4240.5,
+  "parse_cpu_seconds_total": 12647.7,
+  "dl_workers": 4,
+  "parse_workers": 3,
+  "dropped_total": {
+    "no_abstract": 863587,
+    "non_english": 144465,
+    "short_abstract": 59766,
+    "no_title": 20,
+    "retracted": 12046
+  }
+}
